@@ -5,3 +5,5 @@ export 'package:easy_localization/src/asset_loader.dart';
 export 'package:easy_localization/src/public.dart';
 export 'package:easy_localization/src/public_ext.dart';
 export 'package:intl/intl.dart';
+export 'package:easy_localization/src/easy_localization_controller.dart';
+export 'package:easy_localization/src/localization.dart';
